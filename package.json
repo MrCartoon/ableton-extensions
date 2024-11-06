@@ -1,0 +1,10 @@
+{
+  "name": "ableton-extensions",
+  "main": "index.js",
+  "bin": "index.js",
+  "dependencies": {
+    "ableton-js": "^3.4.6",
+    "node-osc": "^9.1.4",
+    "node-wav": "^0.0.2"
+  }
+}
